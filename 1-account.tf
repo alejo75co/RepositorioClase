@@ -1,8 +1,4 @@
-
-
-
-
-
+#para la creacion de las cuentas administrativas 
 
 <!DOCTYPE html>
 <html
